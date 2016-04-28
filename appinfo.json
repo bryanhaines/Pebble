@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "bryan.haines@yahoo.com",
-    "longName": "Tutorial1",
+    "longName": "Combat Infantryman Watchface",
     "projectType": "native",
     "resources": {
         "media": [
@@ -31,7 +31,7 @@
         ]
     },
     "sdkVersion": "2",
-    "shortName": "Tutorial1",
+    "shortName": "CIB Watchface",
     "uuid": "2133d648-2344-46b5-a92e-b9c73b688b7b",
     "versionCode": 1,
     "versionLabel": "1.0",
