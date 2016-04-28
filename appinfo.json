@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bryan.haines@yahoo.com",
+    "longName": "Tutorial1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/combat_infantryman_badge2.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Engr.TTF",
+                "name": "ENGRAVERS_MT_14",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Engr.TTF",
+                "name": "ENGRAVERS_MT_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Engr.TTF",
+                "name": "ENGRAVERS_MT_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Tutorial1",
+    "uuid": "2133d648-2344-46b5-a92e-b9c73b688b7b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
